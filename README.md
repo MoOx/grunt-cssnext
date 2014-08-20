@@ -1,11 +1,11 @@
-# grunt-cssnext
+# grunt-[cssnext](https://github.com/putaindecode/cssnext)
 
 [![Build Status](http://img.shields.io/travis/putaindecode/grunt-cssnext.svg)](https://travis-ci.org/putaindecode/grunt-cssnext)
-[![NPM version](http://img.shields.io/npm/v/grunt-cssnext.svg)](https://codeclimate.com/github/putaindecode/cssnext)
+[![NPM version](http://img.shields.io/npm/v/grunt-cssnext.svg)](https://www.npmjs.org/package/grunt-cssnext)
 
 > Use tomorrow's CSS syntax, today. Via Grunt
 
-*Issues with the output should be reported on the [cssnext issue tracker](https://github.com/putaindecode/cssnext/issues).*
+*Issues with the output should be reported on [cssnext issue tracker](https://github.com/putaindecode/cssnext/issues).*
 
 ## Install
 
@@ -59,4 +59,4 @@ Work on a branch, install dev-dependencies, respect coding style & run tests bef
 
 ## [Changelog](CHANGELOG.md)
 
-## [License](LICENSE-MIT)
+## [License](LICENSE)
