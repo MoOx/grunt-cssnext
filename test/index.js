@@ -23,7 +23,7 @@ test("cssnext grunt plugin", function(t) {
     }
   })
 
-  require("..")(grunt) // registerTask
+  grunt.loadTasks("tasks")
 
   grunt.log.muted = true
 

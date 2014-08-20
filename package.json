@@ -26,7 +26,7 @@
     "CHANGELOG.md",
     "LICENSE",
     "README.md",
-    "index.js"
+    "tasks"
   ],
   "dependencies": {
     "cssnext": "^0.2.0",
@@ -41,10 +41,10 @@
     "tape": "^2.13.4"
   },
   "scripts": {
-    "jscs": "jscs *.js **/*.js",
+    "jscs": "jscs **/*.js",
     "jshint": "jshint . --exclude-path .gitignore --reporter node_modules/jshint-stylish/stylish.js",
     "lint": "npm run jscs && npm run jshint",
-    "tape": "tape test | tap-colorize",
+    "tape": "tape test/**/*.js | tap-colorize",
     "test": "npm run lint && npm run tape"
   }
 }
