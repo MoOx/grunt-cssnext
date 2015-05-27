@@ -7,13 +7,13 @@
 
 **Issues with the output should be reported on [cssnext issue tracker](https://github.com/cssnext/cssnext/issues).**
 
-_Follow [@cssnext](https://twitter.com/cssnext) to get latest news & [join #cssnext on irc.freenode.net](irc://irc.freenode.net/cssnext) if you have any questions._
-
 ## Install
 
 If you haven't used [grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a `Gruntfile.js` as well as install and use grunt plugins. Once you're familiar with that process, install this plugin with this command:
 
-    $ npm install --save-dev grunt-cssnext
+```console
+$ npm install --save-dev grunt-cssnext
+```
 
 
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
