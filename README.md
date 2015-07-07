@@ -44,20 +44,11 @@ grunt.registerTask("default", ["cssnext"])
 
 ### Options
 
-Options are directly passed to cssnext, so checkout [cssnext options](https://github.com/cssnext/cssnext#nodejs-options) directly
+Options are directly passed to cssnext, so checkout [cssnext options](http://cssnext.io/usage/) directly
 
 _Note: `from` & `to` options are automatically specified using grunt source & dest._
 
 ---
-
-## Contributing
-
-Work on a branch, install dev-dependencies, respect coding style & run tests before submitting a bug fix or a feature.
-
-    $ git clone https://github.com/cssnext/grunt-cssnext.git
-    $ git checkout -b patch-1
-    $ npm install
-    $ npm test
 
 ## [Changelog](CHANGELOG.md)
 
