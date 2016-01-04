@@ -1,3 +1,7 @@
+# DEPRECATED. Use grunt-postcss instead.
+
+---
+
 # grunt-[cssnext](https://github.com/cssnext/cssnext)
 
 [![Build Status](http://img.shields.io/travis/cssnext/grunt-cssnext.svg)](https://travis-ci.org/cssnext/grunt-cssnext)
